@@ -1,3 +1,7 @@
 body{
-    background-color: yellow;
+    background-color: cyan;
+}
+
+nav{
+    border: 3px yellow solid;
 }
