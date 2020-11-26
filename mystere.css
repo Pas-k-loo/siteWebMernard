@@ -1,0 +1,27 @@
+table{
+    border-collapse:collapse;
+}
+
+td{
+    border: 1px black solid;
+}
+
+.encours{
+    background-color: cyan;
+}
+
+.acheve{
+    background-color: lime;
+}
+
+.prevision{
+    background-color: rgb(255, 196, 0);
+}
+
+.abandon{
+    background-color: red;
+}
+
+.ensuspens{
+    background-color: yellowgreen;
+}
